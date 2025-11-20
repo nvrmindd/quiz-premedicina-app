@@ -1,0 +1,12 @@
+[
+  {
+    "question": "¿Qué célula inicia la respuesta inmune adaptativa?",
+    "choices": ["Linfocito T", "Neutrófilo", "Macrófago", "Eosinófilo"],
+    "answer": 0
+  },
+  {
+    "question": "Los anticuerpos son producidos por:",
+    "choices": ["Linfocitos B", "Plaquetas", "Monocitos", "Basófilos"],
+    "answer": 0
+  }
+]
