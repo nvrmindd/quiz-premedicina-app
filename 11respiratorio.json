@@ -1,0 +1,12 @@
+[
+  {
+    "question": "¿Dónde ocurre el intercambio gaseoso?",
+    "choices": ["Alveolos", "Tráquea", "Bronquios", "Laringe"],
+    "answer": 0
+  },
+  {
+    "question": "El principal músculo de la respiración es:",
+    "choices": ["Diafragma", "Trapecio", "Esternocleidomastoideo", "Pectoral"],
+    "answer": 0
+  }
+]
