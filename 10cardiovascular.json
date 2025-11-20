@@ -1,0 +1,12 @@
+[
+  {
+    "question": "¿Cuál es la cámara más gruesa del corazón?",
+    "choices": ["Ventrículo izquierdo", "Aurícula izquierda", "Aurícula derecha", "Ventrículo derecho"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué vaso lleva sangre del corazón a los pulmones?",
+    "choices": ["Arteria pulmonar", "Vena cava", "Aorta", "Vena pulmonar"],
+    "answer": 0
+  }
+]
