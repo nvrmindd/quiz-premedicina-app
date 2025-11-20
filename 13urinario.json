@@ -1,0 +1,12 @@
+[
+  {
+    "question": "¿Cuál es la unidad funcional del riñón?",
+    "choices": ["Nefrona", "Glomérulo", "Uréter", "Sáculo"],
+    "answer": 0
+  },
+  {
+    "question": "¿Dónde ocurre la filtración inicial de sangre?",
+    "choices": ["Glomérulo", "Túbulo distal", "Conducto colector", "Pelvis renal"],
+    "answer": 0
+  }
+]
