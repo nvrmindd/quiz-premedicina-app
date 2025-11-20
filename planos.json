@@ -1,0 +1,102 @@
+[
+  {
+    "question": "¿Qué plano anatómico divide al cuerpo en mitades derecha e izquierda?",
+    "choices": [
+      "Plano sagital",
+      "Plano coronal",
+      "Plano transversal",
+      "Plano oblicuo"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "El plano coronal también recibe el nombre de:",
+    "choices": [
+      "Frontal",
+      "Horizontal",
+      "Medio",
+      "Longitudinal"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué plano divide al cuerpo en una porción superior e inferior?",
+    "choices": [
+      "Transversal",
+      "Sagital medio",
+      "Frontal",
+      "Parasagital"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "El plano sagital medio se caracteriza por:",
+    "choices": [
+      "Dividir al cuerpo en dos mitades simétricas",
+      "Separar estructuras anteriores y posteriores",
+      "Separar estructuras superiores e inferiores",
+      "Pasar únicamente por extremidades"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿En qué plano ocurren principalmente los movimientos de flexión y extensión?",
+    "choices": [
+      "Sagital",
+      "Transversal",
+      "Frontal",
+      "Oblicuo"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Los movimientos de abducción y aducción se realizan en el plano:",
+    "choices": [
+      "Frontal",
+      "Sagital",
+      "Transversal",
+      "Radial"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "El plano transversal también se conoce como plano:",
+    "choices": [
+      "Horizontal",
+      "Longitudinal",
+      "Posterior",
+      "Axial"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué plano se usa frecuentemente en estudios de imagen como la tomografía axial computarizada (TAC)?",
+    "choices": [
+      "Transversal",
+      "Sagital medio",
+      "Oblicuo",
+      "Frontal"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Cuando un corte anatómico es paralelo al plano sagital pero no es exactamente la mitad, se llama:",
+    "choices": [
+      "Parasagital",
+      "Intermedio",
+      "Oblicuo",
+      "Frontal parcial"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿Cuál plano permite observar estructuras de anterior a posterior?",
+    "choices": [
+      "Frontal",
+      "Transversal",
+      "Sagital",
+      "Diagonal"
+    ],
+    "answer": 0
+  }
+]
