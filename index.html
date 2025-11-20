@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>PREMED – 2. Anatomía y fisiología</title>
+
+  <link rel="stylesheet" href="style.css" />
+  <link rel="manifest" href="manifest.json" />
+</head>
+
+<body>
+  <main class="container">
+
+    <header class="header">
+      <h1>PREMED – 2. Anatomía y fisiología</h1>
+      <p class="muted">Selecciona una sección para comenzar</p>
+    </header>
+
+    <!-- MENÚ DE TARJETAS -->
+    <section id="menu" class="grid">
+      <!-- Las tarjetas se generan desde app.js -->
+    </section>
+
+    <!-- SECCIÓN DEL QUIZ -->
+    <section id="quiz" class="hidden card">
+      <div class="topbar">
+        <button id="backBtn">← Menú</button>
+        <div id="qmeta" class="muted"></div>
+      </div>
+
+      <div id="question-area">
+        <h2 id="question-text"></h2>
+        <ul id="choices"></ul>
+      </div>
+
+      <div class="controls">
+        <button id="prevBtn">Anterior</button>
+        <button id="nextBtn">Siguiente</button>
+        <button id="showAnswersBtn">Mostrar respuestas</button>
+      </div>
+    </section>
+
+    <footer class="muted small" style="margin-top:20px;">
+      Fuente: /mnt/data/2. Anatomía y fisiología.pdf
+    </footer>
+
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
