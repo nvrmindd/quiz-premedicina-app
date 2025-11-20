@@ -1,0 +1,102 @@
+[
+  {
+    "question": "¿Qué describe mejor la relación morfofuncional en el cuerpo humano?",
+    "choices": [
+      "Cómo la estructura de un órgano determina su función",
+      "El estudio exclusivo de la forma externa del cuerpo",
+      "La función celular sin relación con tejidos",
+      "La estructura ósea sin relación funcional"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿Cuál es un ejemplo de cómo la forma determina la función?",
+    "choices": [
+      "Los alveolos pulmonares tienen gran superficie para intercambio gaseoso",
+      "Las neuronas son esféricas para transmitir impulsos",
+      "La piel es transparente para permitir absorción de luz",
+      "Los huesos largos son flexibles para resistir impactos"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "La disposición de las vellosidades intestinales permite:",
+    "choices": [
+      "Aumentar la superficie de absorción",
+      "Reducir el tránsito intestinal",
+      "Producir hormonas digestivas",
+      "Almacenar nutrientes"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué característica morfofuncional permite al corazón impulsar sangre con fuerza?",
+    "choices": [
+      "El grosor del ventrículo izquierdo",
+      "La delgadez del miocardio",
+      "La presencia de cartílago cardiaco",
+      "La falta de irrigación coronaria"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "La forma bicóncava del eritrocito permite:",
+    "choices": [
+      "Mayor superficie para intercambio de gases",
+      "Producir anticuerpos",
+      "Transportar hormonas",
+      "Duplicarse rápidamente"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué relación morfofuncional es correcta?",
+    "choices": [
+      "Las neuronas poseen axones largos para transmitir impulsos a distancia",
+      "El hígado es pequeño porque tiene poca actividad metabólica",
+      "Los pulmones son rígidos para impedir movimientos",
+      "La tráquea es sólida para permitir el paso de alimentos"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Las microvellosidades de las células del intestino delgado sirven para:",
+    "choices": [
+      "Incrementar la absorción de nutrientes",
+      "Producir bilis",
+      "Romper enlaces proteicos",
+      "Neutralizar el pH"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué estructura presenta una adaptación morfofuncional para filtrar sangre?",
+    "choices": [
+      "El glomérulo renal",
+      "El páncreas",
+      "El esófago",
+      "El estómago"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Los huesos largos tienen epífisis ensanchadas para:",
+    "choices": [
+      "Distribuir mejor la carga y formar articulaciones",
+      "Almacenar aire",
+      "Reducir la producción de médula ósea",
+      "Generar impulsos eléctricos"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "La presencia de discos intervertebrales permite:",
+    "choices": [
+      "Absorber impactos y permitir movilidad",
+      "Reducir la altura corporal",
+      "Evitar el movimiento de la columna",
+      "Aumentar la rigidez vertebral"
+    ],
+    "answer": 0
+  }
+]
