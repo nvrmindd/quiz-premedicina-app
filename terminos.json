@@ -1,0 +1,12 @@
+[
+  {
+    "question": "¿Qué significa anterior en anatomía?",
+    "choices": ["Hacia el frente del cuerpo", "Hacia atrás", "Hacia arriba", "Hacia adentro"],
+    "answer": 0
+  },
+  {
+    "question": "El término proximal indica:",
+    "choices": ["Más cerca del tronco", "Más lejos del tronco", "Hacia la línea media", "Hacia fuera"],
+    "answer": 0
+  }
+]
