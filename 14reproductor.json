@@ -1,0 +1,12 @@
+[
+  {
+    "question": "¿Cuál es el sitio de fecundación más común?",
+    "choices": ["Trompa de Falopio", "Útero", "Ovario", "Vagina"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué hormona estimula la ovulación?",
+    "choices": ["LH", "FSH", "Prolactina", "Progesterona"],
+    "answer": 0
+  }
+]
