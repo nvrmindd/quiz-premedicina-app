@@ -1,0 +1,12 @@
+[
+  {
+    "question": "¿Cuál es la unidad funcional del sistema nervioso?",
+    "choices": ["Neurona", "Axón", "Dendrita", "Sinapsis"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué estructura coordina funciones involuntarias?",
+    "choices": ["Tronco encefálico", "Corteza cerebral", "Hipocampo", "Cerebelo"],
+    "answer": 0
+  }
+]
