@@ -1,0 +1,144 @@
+/* ============================
+   ESTILOS GENERALES
+============================ */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f4f6f9;
+  color: #222;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+h1 {
+  margin: 0;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.muted {
+  color: #666;
+}
+
+.small {
+  font-size: 13px;
+}
+
+/* ============================
+   TARJETAS DEL MENÚ
+============================ */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 15px;
+}
+
+.card-btn {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 18px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  text-align: center;
+  cursor: pointer;
+  transition: 0.2s;
+  border: solid 1px #e3e6eb;
+}
+
+.card-btn:hover {
+  transform: scale(1.03);
+}
+
+.card-btn .icon {
+  font-size: 35px;
+  margin-bottom: 10px;
+}
+
+/* ============================
+   QUIZ
+============================ */
+.hidden {
+  display: none;
+}
+
+.card {
+  background: #fff;
+  padding: 20px;
+  border-radius: 14px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.topbar button {
+  background: #005bea;
+  color: #fff;
+  padding: 8px 14px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.controls {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.controls button {
+  flex: 1;
+  background: #0077ff;
+  color: #fff;
+  padding: 12px;
+  border: none;
+  border-radius: 10px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.controls button:hover {
+  background: #005be0;
+}
+
+/* ============================
+   OPCIONES DEL QUIZ
+============================ */
+#choices {
+  list-style: none;
+  padding: 0;
+}
+
+#choices li {
+  background: #eef2f7;
+  margin-bottom: 12px;
+  padding: 14px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.15s;
+}
+
+#choices li:hover {
+  background: #dce3ec;
+}
+
+.correct {
+  background: #b7f7c1 !important;
+}
+
+.incorrect {
+  background: #ffb7b7 !important;
+}
