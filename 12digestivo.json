@@ -1,0 +1,12 @@
+[
+  {
+    "question": "¿Dónde ocurre la mayor absorción de nutrientes?",
+    "choices": ["Intestino delgado", "Estómago", "Colon", "Esófago"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué órgano produce bilis?",
+    "choices": ["Hígado", "Estómago", "Páncreas", "Bazo"],
+    "answer": 0
+  }
+]
