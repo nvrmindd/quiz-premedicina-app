@@ -1,0 +1,12 @@
+[
+  {
+    "question": "¿Qué tipo de músculo es voluntario?",
+    "choices": ["Esquelético", "Liso", "Cardiaco", "Epitelial"],
+    "answer": 0
+  },
+  {
+    "question": "¿Qué mineral es esencial para la contracción muscular?",
+    "choices": ["Calcio", "Sodio", "Yodo", "Hierro"],
+    "answer": 0
+  }
+]
