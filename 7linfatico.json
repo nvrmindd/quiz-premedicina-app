@@ -1,0 +1,12 @@
+[
+  {
+    "question": "¿Qué función principal tiene el sistema linfático?",
+    "choices": ["Drenaje de líquidos", "Intercambio gaseoso", "Filtración sanguínea", "Digestión"],
+    "answer": 0
+  },
+  {
+    "question": "¿Dónde maduran los linfocitos T?",
+    "choices": ["Timo", "Bazo", "Ganglio linfático", "Médula ósea"],
+    "answer": 0
+  }
+]
