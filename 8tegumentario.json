@@ -1,0 +1,12 @@
+[
+  {
+    "question": "¿Cuál es la función principal de la piel?",
+    "choices": ["Protección", "Digestión", "Producción hormonal", "Filtrar sangre"],
+    "answer": 0
+  },
+  {
+    "question": "La capa más superficial de la piel es:",
+    "choices": ["Epidermis", "Dermis", "Hipodermis", "Estrato reticular"],
+    "answer": 0
+  }
+]
