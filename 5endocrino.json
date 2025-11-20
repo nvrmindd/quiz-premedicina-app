@@ -1,0 +1,12 @@
+[
+  {
+    "question": "¿Qué glándula produce insulina?",
+    "choices": ["Páncreas", "Tiroides", "Hipófisis", "Suprarrenales"],
+    "answer": 0
+  },
+  {
+    "question": "La hormona T3/T4 regula:",
+    "choices": ["Metabolismo", "Calcio", "Estrés", "Glucosa sanguínea"],
+    "answer": 0
+  }
+]
